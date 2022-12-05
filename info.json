@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "kOlNi_rcnSc",
+            "name": "Liszt - Missa Choralis (S.10) - Benedictus-kOlNi_rcnSc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Liszt - Missa Choralis (S.10) - Benedictus-kOlNi_rcnSc.mp4",
+            "size": 3.2928469999999996,
+            "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Liszt - Missa Choralis (S.10) - Benedictus-kOlNi_rcnSc.mp4?raw=true"
+        },
+        {
             "id": "znLFgtkrGzU",
             "name": "triana-abre la puerta ni\u00f1a-znLFgtkrGzU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f4/videos/triana-abre la puerta ni\u00f1a-znLFgtkrGzU.mp4",
@@ -30,11 +37,25 @@
             "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Land of the Gay Caballero-nOANA8ctWXs.mp4?raw=true"
         },
         {
+            "id": "pCpua4dvUXs",
+            "name": "Fela Kuti - Beasts of No Nation-pCpua4dvUXs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Fela Kuti - Beasts of No Nation-pCpua4dvUXs.mp4",
+            "size": 31.530586,
+            "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Fela Kuti - Beasts of No Nation-pCpua4dvUXs.mp4?raw=true"
+        },
+        {
             "id": "X2rVmDEmPo8",
             "name": "Liszt - Die stille Wasserrose S.321-X2rVmDEmPo8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Liszt - Die stille Wasserrose S.321-X2rVmDEmPo8.mp4",
             "size": 2.135331,
             "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Liszt - Die stille Wasserrose S.321-X2rVmDEmPo8.mp4?raw=true"
+        },
+        {
+            "id": "7LC5eDCPCT4",
+            "name": "Beethoven -Triple Concerto, Op. 56 (1804) {Schneiderhan_Fournier_Anda}-7LC5eDCPCT4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Beethoven -Triple Concerto, Op. 56 (1804) {Schneiderhan_Fournier_Anda}-7LC5eDCPCT4.mp4",
+            "size": 23.828439,
+            "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Beethoven -Triple Concerto, Op. 56 (1804) {Schneiderhan_Fournier_Anda}-7LC5eDCPCT4.mp4?raw=true"
         },
         {
             "id": "1_9VQpaf1Rg",
@@ -49,6 +70,20 @@
             "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Someone to Watch over Me-RmH2nxvWRyA.mp4",
             "size": 3.3957089999999996,
             "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Someone to Watch over Me-RmH2nxvWRyA.mp4?raw=true"
+        },
+        {
+            "id": "oF4Aa7poreE",
+            "name": "Claude Debussy - La damoiselle \u00e9lue-oF4Aa7poreE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Claude Debussy - La damoiselle \u00e9lue-oF4Aa7poreE.mp4",
+            "size": 23.292882,
+            "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Claude Debussy - La damoiselle \u00e9lue-oF4Aa7poreE.mp4?raw=true"
+        },
+        {
+            "id": "V3XfmRZAQ-o",
+            "name": "Manuel de Falla - El Amor Brujo-V3XfmRZAQ-o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f4/videos/Manuel de Falla - El Amor Brujo-V3XfmRZAQ-o.mp4",
+            "size": 26.366386,
+            "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Manuel de Falla - El Amor Brujo-V3XfmRZAQ-o.mp4?raw=true"
         },
         {
             "id": "Nl1UOlC6udE",
@@ -79,5 +114,5 @@
             "url": "https://github.com/circuitalmynds/music_f4/blob/main/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 4. Landgr\u00e4fin Sophie - Entschieden ist Dein Los...-hpz0YhZjQkw.mp4?raw=true"
         }
     ],
-    "total_size": 103.058049
+    "total_size": 211.369189
 }
